@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaspedernera27
 - 👀 I’m interested in sports and dogs <3
-- 🌱 I’m currently learning Support It and continuously learning application development
+- 🌱 I’m currently learning about Devops culture and continuously learning application development in Salesforce ecosystem
 - 💞️ I’m looking to collaborate on a great development enviroment.
 - 📫 We can keep in touch on lucaspedernera27@gmail.com !!
 
